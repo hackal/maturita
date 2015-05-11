@@ -13,7 +13,7 @@ var
   k,i,budget:integer;
   line:string;
 
-//Funkcia skopirovana s ulohy 1 pouzita na zadanie dlzky arrayu
+//Funkcia skopirovana z ulohy 1 pouzita na zadanie dlzky arrayu
 function CountLines(path : string): integer;
   var
       i:integer;
