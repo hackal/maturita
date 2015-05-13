@@ -14,7 +14,6 @@ begin
   for i:= 1 to students do
   begin
     inarray:=true;
-    number:=random(30)+1;
     while inarray do
     begin
       inarray:=false;
